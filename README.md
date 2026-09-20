@@ -110,13 +110,13 @@ This script runs once when the server first starts. It installs a web server, st
 ## Screenshots
 
 ### Web page running on the EC2 instance
-![Web page](screenshots/01-web-page.png)
+![Web page](https://github.com/Aswinilokeshwaran/EC2-Web-Server-with-CloudWatch-Alarm/blob/ffa83b56913582edf466cd9fd77e86f46684d507/01-web-page.jpeg)
 
 ### CloudWatch alarm (state: OK)
-![CloudWatch alarm](screenshots/02-cloudwatch-alarm.png)
+![CloudWatch alarm](https://github.com/Aswinilokeshwaran/EC2-Web-Server-with-CloudWatch-Alarm/blob/ffa83b56913582edf466cd9fd77e86f46684d507/02-cloudwatch-alarm.jpeg)
 
 ### EC2 instance running with 3/3 status checks passed
-![Instance running](screenshots/03-instance-running.png)
+![Instance running](https://github.com/Aswinilokeshwaran/EC2-Web-Server-with-CloudWatch-Alarm/blob/ffa83b56913582edf466cd9fd77e86f46684d507/03-instance-running.jpeg)
 
 ## Clean Up
 
@@ -132,7 +132,3 @@ To avoid charges, I deleted the resources after taking the screenshots:
 - How to open a web page hosted on an EC2 instance using its public IP
 - How to create a CloudWatch alarm to monitor CPU usage
 - Why it is important to clean up resources after a project
-
-## Author
-
-**Achu**
